@@ -1,0 +1,8 @@
+TransitDash
+
+TransitDash is a simple app that finds nearby public transit stops and their upcoming departures. So far, it's just a command-line utility, but I am to make it a location-aware web app with support for mobile browsers.
+
+Requirements:
+-Python 2.x (I think)
+-geopy for geocoding of addresses
+-MySQL database containing GTFS data
